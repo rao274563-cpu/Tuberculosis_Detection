@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+tb_venv/
+
+# Dataset
+Dataset of Tuberculosis Chest X-rays Images/
+data/
+
+# Generated images
+dataset_verification.png
+sample_image.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
