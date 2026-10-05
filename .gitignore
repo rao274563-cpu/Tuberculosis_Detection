@@ -19,6 +19,3 @@ sample_image.png
 
 # Environment files
 .env
-
-#Instruction to get deploy link on AWS
-run_app.txt
